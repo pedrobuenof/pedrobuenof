@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Pedro and i'm a analystic and  developer. I'm currently working on an end-to-end project, applying requirements gathering, documentation, UML concepts to documentation in diagrams
+My name is Pedro and i'm a analystic and  developer. I am currently working on an end-to-end project, applying requirements gathering, documentation, UML concepts to documentation in diagrams
 
 
 ## 🌐 Socials:
